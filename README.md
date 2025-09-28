@@ -106,7 +106,7 @@ Explore automated dashboarding (Tableau, Power BI, or Plotly Dash).
 
 Author
 
-Robert Frederiqque
+NGWattspower
 
 🔗 LinkedIn Profile
  | Portfolio
