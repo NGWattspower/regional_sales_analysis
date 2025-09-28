@@ -14,7 +14,6 @@ The project includes:
 
 📘 PDF (PowerPoint export) summarizing insights, key visualizations, and recommendations.
 
-📂 Repository Structure
 ├── data/
 │   └── sales_data.xlsx       # Raw dataset
 ├── notebooks/
@@ -22,6 +21,7 @@ The project includes:
 ├── reports/
 │   └── sales_insights.pdf    # PDF with charts & insights
 ├── README.md                 # Project documentation
+
 
 Tools & Libraries
 
