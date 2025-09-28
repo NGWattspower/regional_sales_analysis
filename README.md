@@ -78,8 +78,8 @@ How to Run
 
 Clone this repository:
 
-git clone https://github.com/yourusername/sales-eda.git
-cd sales-eda
+git clone https://github.com/NGWattspower/regional_sales_analysis.git
+
 
 
 Install dependencies:
