@@ -18,12 +18,18 @@ The project includes:
 
 📂 Repository Structure
 
-├── data/
+├── data/ 
+
 │   └── sales_data.xlsx       # Raw dataset
+
 ├── notebooks/
+
 │   └── sales_eda.ipynb       # Jupyter Notebook (EDA analysis)
+
 ├── reports/
+
 │   └── sales_insights.pdf    # PDF with charts & insights
+
 ├── README.md                 # Project documentation
 
 
